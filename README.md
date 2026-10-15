@@ -34,28 +34,6 @@ ou publiées en dehors de ce challenge.
 
 ---
 
-## Comment soumettre
-
-1. **Forkez** ce dépôt
-2. Créez le dossier `submissions/NomEquipe/`
-3. Ajoutez votre fichier `submission.csv`
-5. Ouvrez une **Pull Request** avec le titre :
-   `[SOUMISSION] NomEquipe — R²=0.XXX`
-
-### Format du fichier de soumission
-
-```csv
-obs_id,fire_risk
-20200818_0387_0982,0.6234
-20200823_0100_0500,0.7891
-```
-
-- Exactement **100 000 lignes**
-- Même ordre que `test.csv`
-- Valeurs `fire_risk` dans [0, 1]
-
----
-
 ## Contact
 Sara Charrada —
 charradasarra@eniso.u-sousse.tn — Université de Sousse
